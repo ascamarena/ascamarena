@@ -2,7 +2,7 @@
 
 ---
 	
-<div align="center"><h1><b>Mucho gusto!<br>Alexis "<i>camarock</i>" aquí ⚡😜⚡</b></div>
+<div align="center"><h1>Mucho gusto!<br>"<i><b>Camarock</b></i>" aquí ⚡😜⚡</div>
 	
 ---
   
