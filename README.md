@@ -1,4 +1,4 @@
-<div align="center"><image src="https://user-images.githubusercontent.com/92229619/136698915-b53501de-1205-401d-aba4-de3a3117f10a.gif" width="700"></div>
+<div align="center"><image src="https://user-images.githubusercontent.com/92229619/136698915-b53501de-1205-401d-aba4-de3a3117f10a.gif" width="900"></div>
 	
 ---
   
@@ -24,5 +24,5 @@ def Alexis():
 ```
 --- 
 
-<div dir="rtl" align="right"><i>.You came without fear. Don't have any regrets, no matter what happens"<br><img src="">."This is the duel you wanted</i></div>
+<div dir="rtl" align="right"><i>,You came without fear. Don't have any regrets"<br><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50">"no matter what happens. This is the duel you wanted</i></div>
 
