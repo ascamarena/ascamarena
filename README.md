@@ -14,16 +14,21 @@ def Alexis():
         "Data Science",
         "Preservation"
     )
+    hard_skills = {
+	"Programming":["Python", "Matlab"],
+	"Geographic Information System":["QGIS","SNAP"],
+	"Open Water Diver":"SSI"
+    }
     hobbies = [
 	"Play soccer",
 	"Anime|Manga",
 	"Hanging out"
     ]
     enjoyments = {
-        "Books":("Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"),
-        "Movies":("Nolan's Batman","The cat in the hat","Shrek"),
-        "Videogames":("Rocket League","FIFA","SW Battlefront"),
-	"Music":("Zona Ganjah","Lindsey Stirling","Santa Fe Klan")
+        "Books":["Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"],
+        "Movies":["Nolan's Batman","The cat in the hat","Shrek"],
+        "Videogames":["Rocket League","FIFA","SW Battlefront"],
+	"Music":["Zona Ganjah","Lindsey Stirling","Santa Fe Klan"]
     }
 ```
 --- 
