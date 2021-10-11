@@ -22,7 +22,8 @@ def Alexis():
     enjoyments = {
         "Books":("Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"),
         "Movies":("Nolan's Batman","The cat in the hat","Shrek"),
-        "Videogames":("Rocket League","FIFA","SW Battlefront")
+        "Videogames":("Rocket League","FIFA","SW Battlefront"),
+	"Music":("Zona Ganjah","Porter","Santa Fe Klan")
     }
 ```
 --- 
