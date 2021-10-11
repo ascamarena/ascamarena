@@ -14,8 +14,11 @@ def Alexis():
         "Data Science",
         "Preservation"
     )
-    hobbies = ["Play soccer", "Anime|Manga", "Hanging out"]
-	
+    hobbies = [
+	"Play soccer",
+	"Anime|Manga",
+	"Hanging out"
+    ]
     enjoyments = {
         "Books":("Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"),
         "Movies":("Nolan's Batman","The cat in the hat","Shrek"),
