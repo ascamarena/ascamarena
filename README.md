@@ -14,9 +14,8 @@ def Alexis():
         "Data Science",
         "Preservation"
     )
-    hobbies = [
-    "Play soccer", "Anime|Manga", "Hanging out"
-    ]
+    hobbies = ["Play soccer", "Anime|Manga", "Hanging out"]
+	
     enjoyments = {
         "Books":("Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"),
         "Movies":("Nolan's Batman","The cat in the hat","Shrek"),
@@ -25,5 +24,5 @@ def Alexis():
 ```
 --- 
 
-<div dir="rtl" align="right"><i>.You came without fear. Don't have any regrets, no matter what happens"<br>."This is the duel you wanted</i></div>
+<div dir="rtl" align="right"><i>.You came without fear. Don't have any regrets, no matter what happens"<br><img src="">."This is the duel you wanted</i></div>
 
