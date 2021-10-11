@@ -24,5 +24,5 @@ def Alexis():
 ```
 --- 
 
-<div dir="rtl" align="right"><i>,You came without fear. Don't have any regrets"<br><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50">"no matter what happens. This is the duel you wanted</i></div>
+<div dir="rtl" align="right"><b><i>,You came without fear. Don't have any regrets"<br><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50">"no matter what happens. This is the duel you wanted</i></b></div>
 
