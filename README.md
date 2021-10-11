@@ -23,10 +23,10 @@ def Alexis():
         "Books":("Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"),
         "Movies":("Nolan's Batman","The cat in the hat","Shrek"),
         "Videogames":("Rocket League","FIFA","SW Battlefront"),
-	"Music":("Zona Ganjah","Porter","Santa Fe Klan")
+	"Music":("Zona Ganjah","Lindsey Stirling","Santa Fe Klan")
     }
 ```
 --- 
 
-<div dir="rtl" align="right"><b><i>,You came without fear. Don't have any regrets"<br><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50">"no matter what happens. This is the duel you wanted</i></b></div>
+<div dir="rtl" align="right"><b><i>,You came without fear. Don't have any regrets"<br><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="65">"no matter what happens. This is the duel you wanted</i></b></div>
 
