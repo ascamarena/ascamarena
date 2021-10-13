@@ -14,7 +14,7 @@ def Alexis():
         "Data Science",
         "Preservation"
     )
-    hard_skills = {
+    skills = {
 	"Programming":["Python", "Matlab"],
 	"Geographic Information System":["QGIS","SNAP"],
 	"Open Water Diver":"SSI"
