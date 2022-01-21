@@ -11,7 +11,7 @@ def Alexis():
     }
     areas_of_interest = (
         "Remote Sensing",
-        "Data Science",
+        "Energy",
         "Preservation"
     )
     skills = {
