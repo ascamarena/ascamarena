@@ -16,7 +16,8 @@ def Alexis():
     )
     skills = {
 	"Geographic Information System":["QGIS","SNAP"],
-	"Open Water Diver":"SSI"
+	"Open Water Diver":"SSI",
+	"Cloud":"AZ-900"
     }
     hobbies = [
 	"Play soccer",
@@ -27,7 +28,7 @@ def Alexis():
         "Books":["Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"],
         "Movies":["Nolan's Batman","The cat in the hat","Shrek"],
         "Videogames":["Rocket League","FIFA","SW Battlefront"],
-	"Music":["Zona Ganjah","Lindsey Stirling","Santa Fe Klan"]
+	"Music":["Zona Ganjah","Lindsey Stirling","Cuarteto de Nos"]
     }
 ```
 --- 
