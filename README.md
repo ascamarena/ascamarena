@@ -15,6 +15,7 @@ def Alexis():
         "Preservation"
     )
     skills = {
+	"Code": ["Python", "HTML", "CSS", "MATLAB"]
 	"Geographic Information System":["QGIS","SNAP"],
 	"Open Water Diver":"SSI",
 	"Cloud":"AZ-900"
