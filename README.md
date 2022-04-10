@@ -15,7 +15,7 @@ def Alexis():
         "Preservation"
     )
     skills = {
-	"Code": ["Python", "HTML", "CSS", "MATLAB"],
+	"Code": ["Python", "HTML", "CSS", "MATLAB", "JS", "Julia"],
 	"Geographic Information System":["QGIS","SNAP"],
 	"Open Water Diver":"SSI",
 	"Cloud":"AZ-900"
@@ -23,7 +23,7 @@ def Alexis():
     hobbies = [
 	"Play soccer",
 	"Anime|Manga",
-	"Hanging out"
+	"Cotorrear"
     ]
     enjoyments = {
         "Books":["Kim","The Narnia Saga","The Hitchhiker's Guide to the Galaxy"],
